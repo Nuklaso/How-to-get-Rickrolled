@@ -1,5 +1,5 @@
 
-# 🎩 RickRoll on Demand — Fancy PowerShell Setup Guide
+# 🎩 RickRoll Tutorial ( best in the World )
 
 Make your Windows **PowerShell** feel magical: type `rick` and a fresh **cmd** window pops up to stream the classic ASCII animation via `curl`.
 
