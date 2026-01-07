@@ -47,4 +47,4 @@ Test:
 rickroll
 ```
 
-🎉 A new **cmd** window opens, your browser launches the YouTube link, after 15s the PC shuts down.
+🎉 A new **cmd** window opens, your browser launches the YouTube link, after 15s the PC shuts down.🎉
