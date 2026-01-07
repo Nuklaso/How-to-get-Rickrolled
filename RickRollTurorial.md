@@ -60,7 +60,7 @@ Now type:
 rick
 ```
 
-🎉 A new **cmd** window appears and streams the ASCII animation.
+🎉 A new **cmd** window appears and streams the ASCII animation.🎉
 
 ---
 
